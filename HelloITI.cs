@@ -4,6 +4,8 @@ class HelloITI
 	{
 
 		Console.WriteLine("HelllllllllllllllllllloITIIIIIIIIIIII");
+		Console.WriteLine("Thank u , how are u");
+		Console.WriteLine("how are u");
 	}
 	public static void PrintHelloGit()
 	{
