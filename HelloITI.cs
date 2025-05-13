@@ -9,7 +9,7 @@ class HelloITI
 	}
 	public static void PrintHelloGit()
 	{
-
 		Console.WriteLine("Hi Git");
+		Console.WriteLine("Hello Hi Bye Bye rere");
 	}
 }
